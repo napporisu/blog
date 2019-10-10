@@ -21,4 +21,5 @@ fields:
   name: tags
   label: tags
 pages:
+- content/posts/from-today-begin-blog.md
 - content/posts/firstblog.md
