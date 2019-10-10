@@ -12,8 +12,9 @@ fields:
 - type: boolean
   name: toc
   label: toc
-- type: text
-  name: images
+- name: images
+  type: image_gallery
+  config: {}
   label: images
 - type: list
   name: tags
