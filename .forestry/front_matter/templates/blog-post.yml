@@ -20,3 +20,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- content/post/やっと書きました-この記事.md
