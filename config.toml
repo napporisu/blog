@@ -1,7 +1,7 @@
 baseURL = "http://napporisu.github.io/"
-languageCode = "jp"
-defaultContentLanguage = "jp"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "Even - A super concise theme for Hugo"
+languageCode = "en"
+defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
+title = "Forever until my life"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
