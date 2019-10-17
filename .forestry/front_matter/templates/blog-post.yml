@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/not-go-to-school-for-a-long-time.md
 - content/not-go-to-school-for-a-long-time.md
 - content/post/a-lazy-day.md
 - content/post/success-for-this-article.md
