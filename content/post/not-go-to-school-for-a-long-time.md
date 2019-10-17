@@ -1,9 +1,9 @@
 +++
-date = "2019-10-17T15:35:32+09:00"
+date = "2019-10-14T23:35:32+09:00"
 draft = true
 images = []
 tags = []
-title = "not-go-to-school-for-a-long-time"
+title = "久しぶりに授業を通う"
 toc = false
 
 +++
